@@ -1,0 +1,16 @@
+C:\Users\alunodev04\source\repos\Aula04\bin\Debug\Aula04.exe.config
+C:\Users\alunodev04\source\repos\Aula04\bin\Debug\Aula04.exe
+C:\Users\alunodev04\source\repos\Aula04\bin\Debug\Aula04.pdb
+C:\Users\alunodev04\source\repos\Aula04\obj\Debug\Aula04.csproj.AssemblyReference.cache
+C:\Users\alunodev04\source\repos\Aula04\obj\Debug\Aula04.csproj.SuggestedBindingRedirects.cache
+C:\Users\alunodev04\source\repos\Aula04\obj\Debug\Aula04.csproj.CoreCompileInputs.cache
+C:\Users\alunodev04\source\repos\Aula04\obj\Debug\Aula04.exe
+C:\Users\alunodev04\source\repos\Aula04\obj\Debug\Aula04.pdb
+C:\DevC\Aula04\bin\Debug\Aula04.exe.config
+C:\DevC\Aula04\bin\Debug\Aula04.exe
+C:\DevC\Aula04\bin\Debug\Aula04.pdb
+C:\DevC\Aula04\obj\Debug\Aula04.csproj.AssemblyReference.cache
+C:\DevC\Aula04\obj\Debug\Aula04.csproj.SuggestedBindingRedirects.cache
+C:\DevC\Aula04\obj\Debug\Aula04.csproj.CoreCompileInputs.cache
+C:\DevC\Aula04\obj\Debug\Aula04.exe
+C:\DevC\Aula04\obj\Debug\Aula04.pdb
